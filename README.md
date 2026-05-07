@@ -433,4 +433,4 @@ Planned improvements include:
 
 ## Author
 
-Developed and maintained by Daren Johnson.
+Developed and maintained by Daren 
